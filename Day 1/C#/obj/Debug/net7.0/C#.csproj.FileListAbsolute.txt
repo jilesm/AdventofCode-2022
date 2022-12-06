@@ -1,0 +1,15 @@
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\bin\Debug\net7.0\C#.exe
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\bin\Debug\net7.0\C#.deps.json
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\bin\Debug\net7.0\C#.dll
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\bin\Debug\net7.0\C#.pdb
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\obj\Debug\net7.0\C#.dll
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\obj\Debug\net7.0\refint\C#.dll
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\obj\Debug\net7.0\C#.pdb
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+G:\Xamp\htdocs\AdventofCode-2022\Day 1\C#\obj\Debug\net7.0\ref\C#.dll
